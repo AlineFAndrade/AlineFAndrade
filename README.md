@@ -7,7 +7,7 @@
     askMeAbout: ["gardening, "crafts", "music", "coffee"],    
     technologies: {    
         frontEnd: {        
-            css: ["bootstrap", "materialize"]
+            css: ["", ""]
         },        
         backEnd: {        
             js: ["firebase", "node"]
