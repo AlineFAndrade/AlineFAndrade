@@ -3,16 +3,8 @@
 ~~~javascript
 `const aline = {
     pronouns: "she" | "her",    
-    code: [Javascript, HTML, CSS],    
+    code: [Javascript, HTML, CSS, FIREBASE],    
     askMeAbout: ["gardening, "crafts", "music", "coffee"],    
-    technologies: {    
-        frontEnd: {        
-            css: ["", ""]
-        },        
-        backEnd: {        
-            js: ["firebase", "node"]
-        }        
-    }    
 };`
 ~~~~
 ##
