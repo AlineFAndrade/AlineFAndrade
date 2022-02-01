@@ -18,7 +18,7 @@
   <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aline-Firebase" height="30" width="30" src="https://img.icons8.com/color/452/firebase.png">
-  <img align="right" alt="Aline-anime" height="130" width="130" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_B7c02gk0.png">
+<!--   <img align="right" alt="Aline-anime" height="130" width="130" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_B7c02gk0.png"> -->
 </div>
   
 ##
